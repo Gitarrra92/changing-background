@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.colorBtn{
+        background: black;
+        color: #fff;
+        padding: 20px 15px;
+}
