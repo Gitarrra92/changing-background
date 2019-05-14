@@ -13,7 +13,7 @@ for(let i = 0; i < 6; i++) {
   let random = Math.floor(Math.random() * hexNumbers.length);
   hexCol += hexNumbers[random];
 }
-
-}
 backgroundCl.style.backgroundColor = hexCol;
 hex.innerHTML = hexCol;
+
+}
