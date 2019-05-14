@@ -9,4 +9,9 @@ body{
         background: black;
         color: #fff;
         padding: 20px 15px;
+        cursor: pointer;
+        outline: none;
+}
+.hexColor{
+    text-transform: capitalize;
 }
